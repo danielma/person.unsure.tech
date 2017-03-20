@@ -16,11 +16,15 @@
       <guid>http://person.unsure.tech/projects/</guid>
       <description>
 
-&lt;h1 id=&#34;resolutions-app&#34;&gt;Resolutions.app&lt;/h1&gt;
+&lt;h1 id=&#34;resolutions-app-https-github-com-danielma-resolutions-app&#34;&gt;&lt;a href=&#34;https://github.com/danielma/Resolutions.app&#34;&gt;Resolutions.app&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/danielma/Resolutions.app&#34;&gt;Resolutions.app&lt;/a&gt; is a macOS app for keeping track of github notifications in a smarter way. Notifications appear, and stay incomplete until you interact with a notification, or manually clear it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://person.unsure.tech/static/images/resolutions-screenshot.png&#34; alt=&#34;Resolutions.app screenshot&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://person.unsure.tech/images/resolutions-screenshot.png&#34; alt=&#34;Resolutions.app screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;museo-https-github-com-danielma-museo&#34;&gt;&lt;a href=&#34;https://github.com/danielma/museo&#34;&gt;museo&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/danielma/museo&#34;&gt;museo&lt;/a&gt; is a ruby gem that adds snapshot testing (a-la &lt;a href=&#34;https://facebook.github.io/jest/&#34;&gt;jest&lt;/a&gt;) to your Rails apps.&lt;/p&gt;
 </description>
     </item>
     

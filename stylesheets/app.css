@@ -519,6 +519,8 @@ article {
   article .single-content > p:first-child,
   article .summary-content > p:first-child {
     margin-top: 0; }
+  article img {
+    max-width: 100%; }
 
 
 
