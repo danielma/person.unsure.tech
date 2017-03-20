@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "person.unsure"
-baseURL = "http://blog.unsure.tech/"
+baseURL = "http://person.unsure.tech/"
 enableEmoji = true
 theme = "unsure"
 

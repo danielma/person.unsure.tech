@@ -1,0 +1,3 @@
+[submodule "themes/unsure"]
+	path = themes/unsure
+	url = git@github.com:danielma/unsure.theme.git
