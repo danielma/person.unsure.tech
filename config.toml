@@ -1,0 +1,17 @@
+languageCode = "en-us"
+title = "person.unsure"
+baseURL = "http://blog.unsure.tech/"
+enableEmoji = true
+theme = "unsure"
+
+[params]
+description = "Who can ever be so sure?"
+author = "person unsure"
+
+[[menu.main]]
+name = 'github'
+url = 'https://github.com/danielma'
+
+[[menu.main]]
+name = 'twitter'
+url = 'https://twitter.com/personunsure'
