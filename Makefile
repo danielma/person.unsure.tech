@@ -11,5 +11,5 @@ deploy:
 	(cd public && git add --all && git commit -m "Publishing `date`")
 	git push origin gh-pages
 
-publish: build && deploy
+publish: build deploy
 
