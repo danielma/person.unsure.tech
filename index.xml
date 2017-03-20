@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>person.unsure</title>
+    <link>http://person.unsure.tech/index.xml</link>
+    <description>Recent content on person.unsure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://person.unsure.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://person.unsure.tech/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://person.unsure.tech/projects/</guid>
+      <description>
+
+&lt;h1 id=&#34;resolutions-app&#34;&gt;Resolutions.app&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/danielma/Resolutions.app&#34;&gt;Resolutions.app&lt;/a&gt; is a macOS app for keeping track of github notifications in a smarter way. Notifications appear, and stay incomplete until you interact with a notification, or manually clear it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://person.unsure.tech/static/images/resolutions-screenshot.png&#34; alt=&#34;Resolutions.app screenshot&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
