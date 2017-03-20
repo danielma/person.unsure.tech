@@ -8,6 +8,9 @@ theme = "unsure"
 description = "Who can ever be so sure?"
 author = "person unsure"
 
+[params.unsure]
+dark = true
+
 [[menu.main]]
 name = 'github'
 url = 'https://github.com/danielma'
@@ -15,3 +18,11 @@ url = 'https://github.com/danielma'
 [[menu.main]]
 name = 'twitter'
 url = 'https://twitter.com/personunsure'
+
+[[menu.main]]
+name = 'about'
+url = '/'
+
+[[menu.main]]
+name = 'projects'
+url = '/projects'
