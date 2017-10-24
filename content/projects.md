@@ -11,3 +11,7 @@ title = 'Projects'
 # [museo](https://github.com/danielma/museo)
 
 [museo](https://github.com/danielma/museo) is a ruby gem that adds snapshot testing (a-la [jest](https://facebook.github.io/jest/)) to your Rails apps.
+
+<h1 id="points"><a href="#">Points</a></h1>
+
+[Points](#) is an iOS app for tracking points while you play games.
